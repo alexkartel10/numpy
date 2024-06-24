@@ -3,7 +3,7 @@
 
 ## Team Members
 
-- [Member Name] | [Member ID]
+- Alexandros Kartelias | 45525
 
 ## Introduction
 This Docker Compose project was created for the purposes of the Cloud Computing Lab Exam 2024. It provides a set of services for numpy. This README file provides an overview of the project, including its services and how to use them.
